@@ -1,0 +1,16 @@
+# ROS / colcon generated files
+build/
+install/
+log/
+
+**/build/
+**/install/
+**/log/
+
+# Compiled files
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
